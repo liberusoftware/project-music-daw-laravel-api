@@ -1,0 +1,1030 @@
+{
+  "source_repository": "liberusoftware/project-music-daw-laravel-filament",
+  "source_revision": "fc4653ba3366ff3398f5e75b91f3351d6ff10f94",
+  "retained": [
+    {
+      "path": "modules/activity-comments",
+      "package": "liberusoftware/activity-comments",
+      "version": "1.4.2",
+      "source_sha": "fc4653ba3366ff3398f5e75b91f3351d6ff10f94"
+    },
+    {
+      "path": "modules/analytics-core",
+      "package": "liberusoftware/analytics-core",
+      "version": "1.4.1",
+      "source_sha": "fc4653ba3366ff3398f5e75b91f3351d6ff10f94"
+    },
+    {
+      "path": "modules/analytics-google",
+      "package": "liberusoftware/analytics-google",
+      "version": "1.4.1",
+      "source_sha": "fc4653ba3366ff3398f5e75b91f3351d6ff10f94"
+    },
+    {
+      "path": "modules/analytics-meta",
+      "package": "liberusoftware/analytics-meta",
+      "version": "1.4.1",
+      "source_sha": "fc4653ba3366ff3398f5e75b91f3351d6ff10f94"
+    },
+    {
+      "path": "modules/api-access",
+      "package": "liberusoftware/api-access",
+      "version": "1.4.1",
+      "source_sha": "fc4653ba3366ff3398f5e75b91f3351d6ff10f94"
+    },
+    {
+      "path": "modules/application",
+      "package": "liberusoftware/application",
+      "version": "1.4.1",
+      "source_sha": "fc4653ba3366ff3398f5e75b91f3351d6ff10f94"
+    },
+    {
+      "path": "modules/audit",
+      "package": "liberusoftware/audit",
+      "version": "1.4.1",
+      "source_sha": "fc4653ba3366ff3398f5e75b91f3351d6ff10f94"
+    },
+    {
+      "path": "modules/currency-context",
+      "package": "liberusoftware/currency-context",
+      "version": "1.4.1",
+      "source_sha": "fc4653ba3366ff3398f5e75b91f3351d6ff10f94"
+    },
+    {
+      "path": "modules/developer-experience",
+      "package": "liberusoftware/developer-experience",
+      "version": "1.4.1",
+      "source_sha": "fc4653ba3366ff3398f5e75b91f3351d6ff10f94"
+    },
+    {
+      "path": "modules/feature-flags",
+      "package": "liberusoftware/feature-flags",
+      "version": "1.4.1",
+      "source_sha": "fc4653ba3366ff3398f5e75b91f3351d6ff10f94"
+    },
+    {
+      "path": "modules/files-media",
+      "package": "liberusoftware/files-media",
+      "version": "1.4.1",
+      "source_sha": "fc4653ba3366ff3398f5e75b91f3351d6ff10f94"
+    },
+    {
+      "path": "modules/identity-core",
+      "package": "liberusoftware/identity-core",
+      "version": "1.4.1",
+      "source_sha": "fc4653ba3366ff3398f5e75b91f3351d6ff10f94"
+    },
+    {
+      "path": "modules/identity-socialstream",
+      "package": "liberusoftware/identity-socialstream",
+      "version": "1.4.1",
+      "source_sha": "fc4653ba3366ff3398f5e75b91f3351d6ff10f94"
+    },
+    {
+      "path": "modules/import-export",
+      "package": "liberusoftware/import-export",
+      "version": "1.4.1",
+      "source_sha": "fc4653ba3366ff3398f5e75b91f3351d6ff10f94"
+    },
+    {
+      "path": "modules/integrations",
+      "package": "liberusoftware/integrations",
+      "version": "1.4.1",
+      "source_sha": "fc4653ba3366ff3398f5e75b91f3351d6ff10f94"
+    },
+    {
+      "path": "modules/jetstream-bridge",
+      "package": "liberusoftware/jetstream-bridge",
+      "version": "1.4.1",
+      "source_sha": "fc4653ba3366ff3398f5e75b91f3351d6ff10f94"
+    },
+    {
+      "path": "modules/localization-core",
+      "package": "liberusoftware/localization-core",
+      "version": "1.4.1",
+      "source_sha": "fc4653ba3366ff3398f5e75b91f3351d6ff10f94"
+    },
+    {
+      "path": "modules/localization-mymemory",
+      "package": "liberusoftware/localization-mymemory",
+      "version": "1.4.1",
+      "source_sha": "fc4653ba3366ff3398f5e75b91f3351d6ff10f94"
+    },
+    {
+      "path": "modules/module-manager",
+      "package": "liberusoftware/module-manager",
+      "version": "1.4.8",
+      "source_sha": "fc4653ba3366ff3398f5e75b91f3351d6ff10f94"
+    },
+    {
+      "path": "modules/music-audio-engine",
+      "package": "liberusoftware/music-audio-engine",
+      "version": "0.1.0",
+      "source_sha": "fc4653ba3366ff3398f5e75b91f3351d6ff10f94"
+    },
+    {
+      "path": "modules/music-media-library",
+      "package": "liberusoftware/music-media-library",
+      "version": "0.1.0",
+      "source_sha": "fc4653ba3366ff3398f5e75b91f3351d6ff10f94"
+    },
+    {
+      "path": "modules/music-media-library-api",
+      "package": "liberusoftware/music-media-library-api",
+      "version": "0.1.0",
+      "source_sha": "fc4653ba3366ff3398f5e75b91f3351d6ff10f94"
+    },
+    {
+      "path": "modules/music-projects",
+      "package": "liberusoftware/music-projects",
+      "version": "0.1.0",
+      "source_sha": "fc4653ba3366ff3398f5e75b91f3351d6ff10f94"
+    },
+    {
+      "path": "modules/music-projects-api",
+      "package": "liberusoftware/music-projects-api",
+      "version": "0.1.0",
+      "source_sha": "fc4653ba3366ff3398f5e75b91f3351d6ff10f94"
+    },
+    {
+      "path": "modules/notifications",
+      "package": "liberusoftware/notifications",
+      "version": "1.4.1",
+      "source_sha": "fc4653ba3366ff3398f5e75b91f3351d6ff10f94"
+    },
+    {
+      "path": "modules/observability",
+      "package": "liberusoftware/observability",
+      "version": "1.4.1",
+      "source_sha": "fc4653ba3366ff3398f5e75b91f3351d6ff10f94"
+    },
+    {
+      "path": "modules/organizations-teams",
+      "package": "liberusoftware/organizations-teams",
+      "version": "1.4.1",
+      "source_sha": "fc4653ba3366ff3398f5e75b91f3351d6ff10f94"
+    },
+    {
+      "path": "modules/profiles",
+      "package": "liberusoftware/profiles",
+      "version": "1.4.1",
+      "source_sha": "fc4653ba3366ff3398f5e75b91f3351d6ff10f94"
+    },
+    {
+      "path": "modules/roles-permissions",
+      "package": "liberusoftware/roles-permissions",
+      "version": "1.4.1",
+      "source_sha": "fc4653ba3366ff3398f5e75b91f3351d6ff10f94"
+    },
+    {
+      "path": "modules/scheduler-queues",
+      "package": "liberusoftware/scheduler-queues",
+      "version": "1.4.1",
+      "source_sha": "fc4653ba3366ff3398f5e75b91f3351d6ff10f94"
+    },
+    {
+      "path": "modules/search",
+      "package": "liberusoftware/search",
+      "version": "1.5.1",
+      "source_sha": "fc4653ba3366ff3398f5e75b91f3351d6ff10f94"
+    },
+    {
+      "path": "modules/search-api",
+      "package": "liberusoftware/search-api",
+      "version": "1.4.1",
+      "source_sha": "fc4653ba3366ff3398f5e75b91f3351d6ff10f94"
+    },
+    {
+      "path": "modules/sessions-devices",
+      "package": "liberusoftware/sessions-devices",
+      "version": "1.4.1",
+      "source_sha": "fc4653ba3366ff3398f5e75b91f3351d6ff10f94"
+    },
+    {
+      "path": "modules/settings",
+      "package": "liberusoftware/settings",
+      "version": "1.4.1",
+      "source_sha": "fc4653ba3366ff3398f5e75b91f3351d6ff10f94"
+    },
+    {
+      "path": "modules/tenancy",
+      "package": "liberusoftware/tenancy",
+      "version": "1.2.2",
+      "source_sha": "fc4653ba3366ff3398f5e75b91f3351d6ff10f94"
+    },
+    {
+      "path": "modules/two-factor-authentication",
+      "package": "liberusoftware/two-factor-authentication",
+      "version": "1.4.1",
+      "source_sha": "fc4653ba3366ff3398f5e75b91f3351d6ff10f94"
+    },
+    {
+      "path": "modules/users-roles",
+      "package": "liberusoftware/users-roles",
+      "version": "1.0.0",
+      "source_sha": "fc4653ba3366ff3398f5e75b91f3351d6ff10f94"
+    },
+    {
+      "path": "modules/webhooks",
+      "package": "liberusoftware/webhooks",
+      "version": "1.4.1",
+      "source_sha": "fc4653ba3366ff3398f5e75b91f3351d6ff10f94"
+    }
+  ],
+  "excluded": [
+    {
+      "path": "modules/identity-core-filament",
+      "package": "liberusoftware/identity-core-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/localization-core-livewire",
+      "package": "liberusoftware/localization-core-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-manager-filament",
+      "package": "liberusoftware/module-manager-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/music-projects-filament",
+      "package": "liberusoftware/music-projects-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/music-projects-livewire",
+      "package": "liberusoftware/music-projects-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/organizations-teams-filament",
+      "package": "liberusoftware/organizations-teams-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/roles-permissions-filament",
+      "package": "liberusoftware/roles-permissions-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/sessions-devices-filament",
+      "package": "liberusoftware/sessions-devices-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/settings-filament",
+      "package": "liberusoftware/settings-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/theme-support",
+      "package": "liberusoftware/theme-support",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/theme-support-livewire",
+      "package": "liberusoftware/theme-support-livewire",
+      "reason": "presentation adapter or web host"
+    }
+  ],
+  "policy": "Domain and API modules only. Embedded panel adapters removed; tenancy uses explicit scoped TenantState rather than Filament tenant resolution. Local Composer path packages are authoritative. Pulse dashboard dependency and UI-specific views, routes, scaffolds, tests and hooks are excluded. Jetstream models and Socialstream OAuth contracts are retained without panels.",
+  "adaptations": [
+    {
+      "path": "modules/activity-comments/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/activity-comments/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/activity-comments/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/activity-comments/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/analytics-core/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/analytics-core/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/analytics-core/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/analytics-core/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/analytics-core/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/analytics-google/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/analytics-google/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/analytics-google/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/analytics-google/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/analytics-google/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/analytics-meta/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/analytics-meta/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/analytics-meta/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/analytics-meta/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/analytics-meta/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/api-access/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/api-access/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/api-access/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/api-access/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/api-access/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/application/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/application/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/application/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/application/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/application/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/audit/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/audit/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/audit/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/audit/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/audit/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/currency-context/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/currency-context/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/currency-context/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/currency-context/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/currency-context/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/developer-experience/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/developer-experience/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/developer-experience/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/developer-experience/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/developer-experience/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/feature-flags/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/feature-flags/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/feature-flags/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/feature-flags/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/feature-flags/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/files-media/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/files-media/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/files-media/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/files-media/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/files-media/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/identity-core/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/identity-core/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/identity-core/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/identity-core/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/identity-core/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/identity-socialstream/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/identity-socialstream/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/identity-socialstream/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/identity-socialstream/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/identity-socialstream/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/identity-socialstream/src/Providers/SocialstreamServiceProvider.php",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/import-export/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/import-export/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/import-export/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/import-export/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/import-export/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/integrations/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/integrations/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/integrations/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/integrations/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/integrations/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/jetstream-bridge/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/jetstream-bridge/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/jetstream-bridge/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/jetstream-bridge/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/jetstream-bridge/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/localization-core/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/localization-core/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/localization-core/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/localization-core/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/localization-core/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/localization-mymemory/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/localization-mymemory/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/localization-mymemory/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/localization-mymemory/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/localization-mymemory/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/module-manager/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-manager/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/module-manager/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/module-manager/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/music-audio-engine/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/music-audio-engine/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/music-audio-engine/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/music-audio-engine/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/music-media-library/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/music-media-library/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/music-media-library/.github/workflow-templates/install.yml.example",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/music-media-library/.github/workflow-templates/tests.yml.example",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/music-media-library/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/music-media-library/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/music-media-library-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/music-media-library-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/music-media-library-api/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/music-media-library-api/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/music-projects/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/music-projects/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/music-projects/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/music-projects/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/music-projects-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/music-projects-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/music-projects-api/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/music-projects-api/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/notifications/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/notifications/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/notifications/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/notifications/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/notifications/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/observability/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/observability/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/observability/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/observability/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/observability/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/observability/database/migrations/2026_06_29_124052_create_pulse_tables.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/organizations-teams/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/organizations-teams/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/organizations-teams/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/organizations-teams/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/organizations-teams/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/profiles/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/profiles/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/profiles/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/profiles/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/profiles/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/roles-permissions/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/roles-permissions/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/roles-permissions/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/roles-permissions/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/roles-permissions/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/scheduler-queues/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/scheduler-queues/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/scheduler-queues/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/scheduler-queues/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/scheduler-queues/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/search/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/search/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/search/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/search/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/search-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/search-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/search-api/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/search-api/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/search-api/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/sessions-devices/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/sessions-devices/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/sessions-devices/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/sessions-devices/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/sessions-devices/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/settings/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/settings/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/settings/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/settings/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/settings/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/tenancy/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/tenancy/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/tenancy/src/TenantContext.php",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/tenancy/src/Listeners/SwitchTeam.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/two-factor-authentication/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/two-factor-authentication/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/two-factor-authentication/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/two-factor-authentication/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/two-factor-authentication/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/users-roles/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/users-roles/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/users-roles/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/users-roles/.github/workflows/tests.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/webhooks/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/webhooks/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/webhooks/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/webhooks/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/webhooks/.github/workflows/tests.yml",
+      "change": "omitted"
+    }
+  ]
+}

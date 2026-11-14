@@ -1,0 +1,47 @@
+{
+    "$schema": "https://schemas.liberu.dev/module/v1.json",
+    "name": "music-media-library",
+    "display_name": "Music Media Library",
+    "description": "Verified Music audio, private archive intake, queued imports/exports, rights packs and safe cleanup.",
+    "version": "0.1.0",
+    "category": "product",
+    "provider": "Liberu\\Music\\MediaLibrary\\MusicMediaLibraryServiceProvider",
+    "requires": {
+        "php": "^8.5",
+        "laravel": "^13.0",
+        "packages": {
+            "liberusoftware/files-media": "^1.4",
+            "liberusoftware/search": "^1.5",
+            "liberusoftware/import-export": "^1.4"
+        }
+    },
+    "capabilities": [
+        "music.media-library"
+    ],
+    "default_enabled": false,
+    "features": [
+        "Verified audio metadata",
+        "Resumable private uploads",
+        "Verified asset publication",
+        "Bounded channel waveform indexing",
+        "Scoped foundation media authorization",
+        "Versioned media names and tags",
+        "Workspace-scoped media search",
+        "Audited media restoration without reference changes",
+        "Transactional session media retention",
+        "Versioned owner-scoped offline pins with UTC leases",
+        "Grace-period cancelled quarantine cleanup with dry runs and recovery",
+        "Versioned media packs with immutable provenance and revision retention",
+        "Policy-reviewed portable pack manifests with verified import mappings",
+        "Bounded ZIP pack transport with scanner-verified resumable import",
+        "Atomic workspace upload reservation budgets with entitlement policy integration",
+        "Durable authorized waveform jobs with retry recovery and versioned workspace content cache",
+        "Recoverable trash and reference-safe shared-content collection with committed deletion intents",
+        "Queued verified publication and original-identity asset restoration",
+        "Private integrity-verified downloads with live foundation transfer authorization",
+        "Durable actor-owned queued integrity-verified trash recovery",
+        "Durable private pack ZIP export tasks, verified expiring results and bounded cleanup",
+        "Purpose-bound private resumable archive intake with scanner, checksum and quota enforcement",
+        "Owned queued archive imports with durable audio progress, atomic pack acknowledgement and cancellation"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "name": "liberusoftware/music-media-library",
+    "description": "Verified Music audio, private archive intake, queued imports/exports, rights packs and safe cleanup.",
+    "type": "liberu-module",
+    "license": "MIT",
+    "version": "0.1.0",
+    "require": {
+        "php": "^8.5",
+        "php-64bit": "^8.5",
+        "ext-zip": "*",
+        "illuminate/support": "^13.38",
+        "liberusoftware/files-media": "^1.4",
+        "liberusoftware/search": "^1.5",
+        "liberusoftware/import-export": "^1.4",
+        "illuminate/auth": "^13.38",
+        "illuminate/database": "^13.38",
+        "illuminate/events": "^13.38",
+        "illuminate/filesystem": "^13.38",
+        "illuminate/validation": "^13.38",
+        "illuminate/pagination": "^13.38",
+        "illuminate/cache": "^13.38",
+        "illuminate/bus": "^13.38",
+        "illuminate/queue": "^13.38"
+    },
+    "autoload": {
+        "psr-4": {
+            "Liberu\\Music\\MediaLibrary\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Liberu\\Music\\MediaLibrary\\Tests\\": "tests/"
+        }
+    },
+    "require-dev": {
+        "liberusoftware/package-testbench": "^1.8",
+        "pestphp/pest": "^5.3"
+    },
+    "extra": {
+        "liberu": {
+            "name": "music-media-library"
+        }
+    },
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    }
+}

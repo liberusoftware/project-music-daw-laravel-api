@@ -1,0 +1,46 @@
+{
+    "name": "liberusoftware/music-projects-api",
+    "description": "Authorized Music session commands, metadata, portable imports and reconnectable revision polling.",
+    "type": "liberu-module",
+    "license": "MIT",
+    "version": "0.1.0",
+    "require": {
+        "php": "^8.5",
+        "illuminate/http": "^13.38",
+        "illuminate/routing": "^13.38",
+        "illuminate/validation": "^13.38",
+        "liberusoftware/music-projects": "^0.1 || dev-main",
+        "laravel/sanctum": "^4.3",
+        "illuminate/encryption": "^13.38"
+    },
+    "autoload": {
+        "psr-4": {
+            "Liberu\\Music\\ProjectsApi\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Liberu\\Music\\ProjectsApi\\Tests\\": "tests/"
+        }
+    },
+    "require-dev": {
+        "liberusoftware/package-testbench": "^1.8",
+        "pestphp/pest": "^5.3"
+    },
+    "extra": {
+        "liberu": {
+            "name": "music-projects-api"
+        },
+        "laravel": {
+            "providers": []
+        }
+    },
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        },
+        "github-protocols": [
+            "https"
+        ]
+    }
+}
